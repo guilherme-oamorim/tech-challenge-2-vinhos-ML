@@ -1,0 +1,7 @@
+modelo,f1_teste,roc_auc_teste,f1_val_cruzada,roc_auc_val_cruzada
+Random Forest,0.597,0.913,0.676,0.935
+SVM,0.523,0.87,0.535,0.891
+Regressão Logística,0.489,0.85,0.51,0.873
+Naive Bayes,0.514,0.81,0.544,0.851
+KNN,0.475,0.834,0.476,0.843
+Árvore de Decisão,0.562,0.746,0.525,0.727
