@@ -105,3 +105,8 @@ O **Random Forest** é o modelo principal, por ter o melhor desempenho geral e m
 - **Açúcar residual** e **pH** têm pouca influência.
 
 São relações estatísticas, não causais. O modelo deve ser usado como apoio à decisão (por exemplo, para priorizar lotes para análise sensorial), e não como substituto da avaliação de especialistas.
+
+   ## Equipe
+   Projeto desenvolvido em grupo na Pós Tech em Data Analytics da FIAP por Félix Hiroito, Guilherme Amorim, João Victor de Oliveira e Rafael Pedrosa.
+
+   🎥 Apresentação: https://youtu.be/UniWBKFUetw?si=7NTly96rPjSOJRyw
